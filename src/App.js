@@ -5,10 +5,7 @@ function App() {
   return (
     <>
       <InfiniteScroller />
-      {/* <React1/> */}
-      {/* <OldData/> */}
-      {/* <Fetch1 /> */}
-      {/* <Scroll/> */}
+      
     </>
   );
 }
