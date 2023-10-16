@@ -1,0 +1,50 @@
+.span {
+  font-weight: bold;
+  color: rgb(100, 248, 206);
+}
+.name {
+  font-weight: 400;
+}
+.image {
+  justify-content: center !important;
+  text-align: center;
+  align-self: center !important;
+  border-width: 3px !important;
+  border-color: rgb(255, 0, 0);
+  width: 27%;
+  height: 13%;
+  margin-right: 4%;
+}
+.image1 {
+  width: 96%;
+  height: 96%;
+  border-width: 3px !important;
+  text-align: center;
+  align-self: center;
+  border-radius: 17px;
+  border: 3px;
+}
+.column {
+  align-items: center !important;
+}
+.main {
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  text-align: center;
+  /* align-content: center; */
+}
+.card {
+  border-radius: 35px;
+  max-width: 85%;
+  border-width: 4px;
+  border-color: rgb(93, 93, 93);
+  background-color: black;
+  margin: 3%;
+  padding: 3%;
+  justify-content: center !important;
+  display: flex;
+}
+.text {
+  color: rgb(247, 194, 0);
+}
